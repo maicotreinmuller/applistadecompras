@@ -1,2 +1,2 @@
-# applistadecompras
-applistadecompras
+# listadecompras
+Lista de Compras PWA
